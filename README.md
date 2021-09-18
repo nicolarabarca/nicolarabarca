@@ -2,7 +2,7 @@
 
 <p align="center" width="300">
   <img align="center" width="200" src="https://cdn-icons-png.flaticon.com/512/4883/4883476.png" />
-   <h3 align="center">¡Hola 👋! Soy Nico Lara ![image](https://user-images.githubusercontent.com/83736326/133909712-c68fbda5-2f91-4e76-bd30-905205c55b3a.png)
+   <h3 align="center">¡Hola 👋! Soy Nico Lara !
 </h3>
 </p>
 
