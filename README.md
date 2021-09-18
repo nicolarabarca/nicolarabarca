@@ -2,7 +2,7 @@
 
 <p align="center" width="300">
   <img align="center" width="200" src="https://cdn-icons-png.flaticon.com/512/4883/4883476.png" />
-   <h3 align="center">¡Hola :octocat:! Soy Nico Lara!</h3>
+   <h3 align="center">¡Hola :smiley:! Soy Nico Lara!</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrolladora 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝</strong> formada en Laboratoria. Con experiencia en desarrollo de apps y sitios web utilizando: HTML, CSS, CSS3, Vanilla JavaScript, Visual Code y FireBase. Con conocimientos en GitHub, Kanban y Scrum.
